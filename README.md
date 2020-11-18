@@ -1,2 +1,2 @@
 # KeeonSimulator2
-Keeon
+Keeon Simulator 2
